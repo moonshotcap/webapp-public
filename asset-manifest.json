@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.dd60414d.css",
-    "main.js": "/static/js/main.ecfefe47.js",
+    "main.css": "/static/css/main.5b3b4dae.css",
+    "main.js": "/static/js/main.f415faaf.js",
     "static/js/787.0af61d7e.chunk.js": "/static/js/787.0af61d7e.chunk.js",
     "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
-    "static/media/banner-bg.png": "/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/header-img.svg": "/static/media/header-img.400baa4260daac98f2b2b1ccf08761c2.svg",
+    "static/media/skybg.jpeg": "/static/media/skybg.0f3f60f5ea18ff0b1cdb.jpeg",
     "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
-    "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
     "static/media/HarshelAjmera.jpeg": "/static/media/HarshelAjmera.ae0007e4e0d03c57d2a0.jpeg",
     "static/media/JagadeeshPunna.jpeg": "/static/media/JagadeeshPunna.30040b37ead90e0dc303.jpeg",
     "static/media/Hardik.jpeg": "/static/media/Hardik.5e39cbf401a7503d9b8e.jpeg",
@@ -46,12 +45,12 @@
     "index.html": "/index.html",
     "static/media/nav-icon1.svg": "/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.a39f0e5e47e442dafcc5c9c320f19f6f.svg",
-    "main.dd60414d.css.map": "/static/css/main.dd60414d.css.map",
-    "main.ecfefe47.js.map": "/static/js/main.ecfefe47.js.map",
+    "main.5b3b4dae.css.map": "/static/css/main.5b3b4dae.css.map",
+    "main.f415faaf.js.map": "/static/js/main.f415faaf.js.map",
     "787.0af61d7e.chunk.js.map": "/static/js/787.0af61d7e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd60414d.css",
-    "static/js/main.ecfefe47.js"
+    "static/css/main.5b3b4dae.css",
+    "static/js/main.f415faaf.js"
   ]
 }
